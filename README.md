@@ -21,3 +21,10 @@ create table student_register(
    password VARCHAR(50) NOT NULL,
    PRIMARY KEY ( email )
 );
+SIGN -UP PAGE :-
+![Screenshot (168)](https://github.com/Vishalkarpe1234/Login_page2/assets/125251737/3eabdc72-dbf2-4964-84c3-44241d0d695e)
+
+Login-page :-
+![Screenshot (169)](https://github.com/Vishalkarpe1234/Login_page2/assets/125251737/f8ad3684-3f58-4dac-b0ba-b4ae068614c8)
+
+
